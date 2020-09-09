@@ -1,5 +1,5 @@
 ﻿using System;
-
+//                    EM KO BIẾT VIẾT HÀM CÁI NÀY NÊN EM ĐỂ NGUYÊN :D
 namespace Menu
 {
     class Menu
